@@ -1,0 +1,36 @@
+body{margin: 1px;}
+.header{
+	padding: 5%; background: blue; width: 40%; float: left; font-size:50px; 
+}
+
+
+.floatright{
+	padding: 5%; background: green; width: 40%; float: left; font-size:50px; 
+}
+.clear
+{ clear: both; }
+
+nav{background: red; }
+nav ul{margin: 3px; padding: 0.5%}
+nav ul li {list-style: none; float: left; margin: 0.3%; padding: 1%; background: yellow;}
+nav ul li a{text-decoration: none; display: block; width: 100%}
+
+.clear
+{clear: both;}
+.main3
+{ padding: 4%; background: blue; width: 28%; float: left; font-size: 30px;}
+
+.main4
+{ padding: 4%; background: green; width: 56%; float: left; font-size: 30px;}
+
+
+
+.main5
+{ padding: 5%; background: yellow; margin-top:0.5%; width: 100%; font-size: 30px;}
+
+
+
+
+
+
+
